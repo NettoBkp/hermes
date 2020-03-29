@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/components/ConectaBd.js
 /src/server.js
 /.pnp
 .pnp.js
