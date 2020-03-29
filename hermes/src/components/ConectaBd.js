@@ -3,10 +3,10 @@ const db = require('mysql');
 class Db {
     connect(){
         return db.createConnection({
-            host     : 'cpl08.main-hosting.eu',
-            user     : 'artsyste_netto',
-            password : 'Z}1K1.klRh=G',
-            database:  'artsyste_hermes'  
+            host     : '',
+            user     : '',
+            password : '',
+            database:  ''  
         }).them(conn => {
             this.conn = conn
         })
