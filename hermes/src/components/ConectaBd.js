@@ -13,4 +13,4 @@ class Db {
     }
 }
 console.log(Db.password);
-module.exports = new Db()
+module.exports = new Db();
