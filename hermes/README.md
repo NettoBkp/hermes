@@ -1,3 +1,6 @@
+# Fisica-CEFET-NF---App
+App para alunos de física do CEFET NF
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
